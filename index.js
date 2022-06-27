@@ -1,5 +1,2 @@
-let f = function g() {
-  return 23;
-};
-
-console.log(typeof g());
+let max_num = Number.NEGATIVE_INFINITY;
+console.log(max_num + 1);
